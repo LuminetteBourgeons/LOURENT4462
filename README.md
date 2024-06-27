@@ -13,7 +13,7 @@ In addition to my passion for robotics, I also run a popular Minecraft server na
 Feel free to reach out if you have any questions, suggestions, or just want to say hi!
 
 - Discord
-  <iframe
+  ![Discord Profile]<iframe
     title="Discord user embed"
     width="340"
     height=120
